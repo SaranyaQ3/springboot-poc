@@ -1,0 +1,5 @@
+package springboot.models;
+
+public @interface GeneratedValue {
+
+}
